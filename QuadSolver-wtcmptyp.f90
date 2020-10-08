@@ -1,4 +1,5 @@
 program quad
+! simple quadratic equation solver, without complex numbers.
     implicit none
     real(kind=8) :: a,b,c,d,e
     read *, a,b,c
