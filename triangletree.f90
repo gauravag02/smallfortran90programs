@@ -1,4 +1,10 @@
 program triangle
+! Takes in coordinates of a triangle and outputs if that is a scalene tr, equilaterla tr
+! or isoceles, also checks for right angled triangle.
+
+
+
+
     implicit none
     real,dimension(2) :: p1,p2,p3 !points to read
     real :: d1,d2,d3, dist !distances from each
