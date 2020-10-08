@@ -1,5 +1,5 @@
 # smallfortran90programs
-These are some fortran 90 programs, having linear algebra, calculus, partial equation solving etc with some simple numerical methods.
+These are some fortran 90 programs, having linear algebra, calculus, partial differential equation solving etc with some simple numerical methods.
 
 Other (more refined and reusable) contributions @ https://github.com/ShrirajHegde/fortran-snippet-collection
 
